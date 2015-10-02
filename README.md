@@ -18,7 +18,7 @@ What is IoT? What does Microsoft offer? Azure IoT Suite. | 30  | <a href='http:/
 Lab: Explore the Portal | 60  | <a href='IoT/IntroToAzure.md'>Introduction to Azure</a>
 Let them hack with Tessel.io's | 60 | [Tessel Labs](IoT/Tessel in the Cloud Labs.docx)
 Azure Stream Analytics + Azure Event Hubs | 60 | Labs: Event Hubs + Stream Analytics
-Hadoop in Azure: HDInsight  | 30  | <a href='HDInsight/Hadoop in Azure.pptx'>Presentation - Hadoop in Azure: HDInsight</a>
+Hadoop in Azure: HDInsight  | 30  | <a href='HDInsight'>Hadoop in Azure: HDInsight</a>
 Lab: HDInsight | 30  | <a href='HDInsight/1IntroToHDI.md'>Introduction to HDInsight</a> and <a href='HDInsight/2BatchAnalysis.md'>HDI Batch Analysis and Power BI</a>
 Spark on HDInsight | 30 | Presentation
 Lab: Spark on HDInsight | 30 | Labs
