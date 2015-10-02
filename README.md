@@ -8,7 +8,7 @@ These labs are accompanying material to the IoT and Data Camp at [SQLSaturday #4
 2. [Let them hack with Tessel.io’s](IoT)
 3. Azure Stream Analytics + Azure Event Hubs
 4. [HDInsight](HDInsight)
-5. Spark on HDInsight
+5. [Spark on HDInsight](Spark)
 6. [Azure Machine Learning](AzureML)
 
 Session     | Time  | Activity
@@ -21,7 +21,7 @@ Azure Stream Analytics + Azure Event Hubs | 60 | Labs: Event Hubs + Stream Analy
 Hadoop in Azure: HDInsight  | 30  | <a href='HDInsight'>Hadoop in Azure: HDInsight</a>
 Lab: HDInsight | 30  | <a href='HDInsight/1IntroToHDI.md'>Introduction to HDInsight</a> and <a href='HDInsight/2BatchAnalysis.md'>HDI Batch Analysis and Power BI</a>
 Spark on HDInsight | 30 | Presentation
-Lab: Spark on HDInsight | 30 | Labs
+Lab: Spark on HDInsight | 30 | [Labs](Spark)
 Azure Machine Learning | 15 | Presentation
 Lab: Azure Machine Learning | 45 | [Labs: Azure Machine Learning](AzureML)
 
