@@ -14,8 +14,8 @@ These labs are accompanying material to the IoT and Data Camp at [SQLSaturday #4
 Session     | Time  | Activity
 -------- | --- | ---------------
 Azure Subscription and Lab Setup  | 30  | Lab Setup Instructions Coming Soon
-What is IoT? What does Microsoft offer? Azure IoT Suite. | 30  | <a href='http://www.slideshare.net/oliviaklose/techcamps-internet-of-things'>Presentation - Introduction to Azure</a>
-Lab: Explore the Portal | 60  | <a href='IoT/IntroToAzure.md'>HOL 1 - Introduction to Azure</a>
+What is IoT? What does Microsoft offer? Azure IoT Suite. | 30  | <a href='http://www.slideshare.net/oliviaklose/techcamps-internet-of-things'>Presentation - What is IoT?</a>
+Lab: Explore the Portal | 60  | <a href='IoT/IntroToAzure.md'>Introduction to Azure</a>
 Let them hack with Tessel.io's | 60 | [Tessel Labs](IoT/Tessel in the Cloud Labs.docx)
 Azure Stream Analytics + Azure Event Hubs | 60 | Labs: Event Hubs + Stream Analytics
 Hadoop in Azure: HDInsight  | 30  | <a href='HDInsight/Hadoop in Azure.pptx'>Presentation - Hadoop in Azure: HDInsight</a>

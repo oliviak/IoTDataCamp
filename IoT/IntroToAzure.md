@@ -1,4 +1,4 @@
-# Hands on Lab 1 - Introduction to the Azure Portal #
+# Introduction to the Azure Portal #
 
 Overall time to complete: **20 minutes**
 

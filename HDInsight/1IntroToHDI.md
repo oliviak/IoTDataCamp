@@ -1,4 +1,4 @@
-# Hands on Lab 2 - Introduction to HDInsight #
+# Introduction to HDInsight #
 
 Overall time to complete: **25 minutes**
 
