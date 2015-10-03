@@ -1,2 +1,2 @@
-The labs can be found in the Word document [Tessel in the Cloud Labs](Tessel in the Cloud.docx).
+The labs can be found in the Word document [Tessel in the Cloud Labs](https://github.com/oliviak/IoTDataCamp/blob/master/IoT/Tessel%20in%20the%20Cloud%20Labs.docx).
 Otherwise, most of the code snippets in the labs can be found in this directory.
